@@ -13,7 +13,7 @@ About Me
 
 About This Site
 ===============
-* It forked from [Anil Wadghule's blog](http://www.anilwadghule.com/), of course, I change the contents to my original.
+* It forked from [Anil Wadghule's blog](http://www.anilwadghule.com/), of course, I have changed the contents to my original.
 * I set up the site by [GitHub](https://github.com/). Here is [the sources of this site](https://github.com/PatterXYZ/Blog).
 
 Projects
