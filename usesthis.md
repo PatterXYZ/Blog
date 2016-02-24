@@ -23,9 +23,6 @@ title: Software
 * [Mailbox](http://www.mailboxapp.com/)
 
 
-
-
-
 ## Services
 
 * [GitHub](https://github.com/)
