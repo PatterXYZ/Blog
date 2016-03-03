@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-About Me
+Me
 ========
 
 * I am a postgraduate from China.
@@ -11,7 +11,7 @@ About Me
 * Unfortunately, I am not a professional programmer, I have just started learning Python as my first computer language recently.
 * So, I hope I can learn and discuss about programming with you guys here.
 
-About This Site
+This Site
 ===============
 * It forked from [Anil Wadghule's blog](http://www.anilwadghule.com/), of course, I have changed the contents to my original.
 * I set up the site in [GitHub](https://github.com/). Here is [the sources of this site](https://github.com/PatterXYZ/Blog).
