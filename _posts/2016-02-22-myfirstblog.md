@@ -1,8 +1,6 @@
 ---
 layout: post
-title: My First Blog
+title: my first blog
 ---
 
-This is my first blog.<br/>
-I learned how to post the blogs today.<br/>
-So, I‘m posting this!<br/>
+This is my first blog. I learned how to post the blogs today. So, I‘m posting this!
